@@ -1,4 +1,4 @@
-# Docker Assignment: Node.js Backend & Flask Frontend
+# Part 1: Docker Assignment - Node.js Backend & Flask Frontend
 
 ## Overview
 
@@ -77,4 +77,9 @@ docker ps
 ```
 
 ### Proof of running containers via docker ps and docker run
-![alt text](./public/Proof.png)
+
+![Proof of working containers](./public/Proof.png)
+
+# Part 2: The Docker state diagram
+
+![State Diagram](./public/docker-state-diagram.png)
