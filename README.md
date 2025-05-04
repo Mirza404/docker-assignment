@@ -77,5 +77,4 @@ docker ps
 ```
 
 ### Proof of running containers via docker ps and docker run
-SS
 ![alt text](./public/Proof.png)
