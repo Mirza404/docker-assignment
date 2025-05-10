@@ -82,4 +82,4 @@ docker ps
 
 # Part 2: The Docker state diagram
 
-![State Diagram](./public/docker-state-diagram.png)
+![State Diagram](./public/state-diagram.png)
